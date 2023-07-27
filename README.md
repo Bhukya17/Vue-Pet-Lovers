@@ -1,4 +1,4 @@
-# pet-project
+# Pet-Lovers
 
 ## Project setup
 ```
